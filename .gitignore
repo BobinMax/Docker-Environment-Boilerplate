@@ -1,2 +1,2 @@
-mysqldata
-redisdata
+.idea/
+src/vendor/
